@@ -1,0 +1,24 @@
+{
+  "name": "tailwind-css",
+  "version": "1.0.0",
+  "description": "this is tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:css": "tailwind build src/style.css -o dist/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MCFrank16/tailwind-css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MCFrank16/tailwind-css/issues"
+  },
+  "homepage": "https://github.com/MCFrank16/tailwind-css#readme",
+  "dependencies": {
+    "tailwindcss": "^1.1.4"
+  }
+}
